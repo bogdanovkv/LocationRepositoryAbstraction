@@ -9,7 +9,7 @@
 import Foundation
 
 /// Модель страны
-public struct CountryModel: Decodable {
+public struct CountryModel {
 
 	/// Код страны
 	public let codeIATA: String

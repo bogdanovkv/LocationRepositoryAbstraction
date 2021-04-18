@@ -7,7 +7,7 @@
 //
 
 /// Модель города
-public struct CityModel: Decodable {
+public struct CityModel {
 
 	/// Код города
 	let codeIATA: String

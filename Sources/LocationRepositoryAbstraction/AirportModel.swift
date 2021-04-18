@@ -9,7 +9,7 @@
 import Foundation
 
 /// Модель аэропорта
-public struct AirportModel: Decodable {
+public struct AirportModel {
 
 	/// Код аэропорта
 	public let code: String
