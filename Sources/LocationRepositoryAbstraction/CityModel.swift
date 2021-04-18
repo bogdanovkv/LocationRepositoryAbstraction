@@ -10,16 +10,16 @@
 public struct CityModel {
 
 	/// Код города
-	let codeIATA: String
+	public let codeIATA: String
 
 	/// Код страны
-	let countryCode: String
+	public let countryCode: String
 
 	/// Название города на английском
-	let name: String
+	public let name: String
 
 	/// Название на русском
-	let nameRu: String?
+	public let nameRu: String?
 
 	/// Инициализатор
 	/// - Parameters:
