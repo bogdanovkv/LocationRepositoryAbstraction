@@ -1,6 +1,5 @@
 //
 //  CityModel.swift
-//  SBTSwiftProject
 //
 //  Created by Константин Богданов on 18.04.2021.
 //  Copyright © 2020 Константин Богданов. All rights reserved.
