@@ -11,4 +11,4 @@ import Foundation
 public enum LocationRepositoryError: Error {
 	   case urlError
 	   case nilData
-   }
+}
